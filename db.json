@@ -1,0 +1,431 @@
+[
+  {
+    "ref": "cebd85ab-f523-486c-8daf-486f476abbcf",
+    "keyword": "2f4b0b5f7927a26d8aff839a6addf090",
+    "answer": "Hl",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "2e0da123ea38a15352c16309335e2378"
+  },
+  {
+    "ref": "ans_dea7dfc0-c255-4cad-a581-758c76c76265",
+    "keyword": "key_aedddcdd-1921-4515-90ec-2a80bfe4b807",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "1a69184be19576edca5eaa6d6aa859a5",
+    "from": "573017474717"
+  },
+  {
+    "ref": "c6522e6e-44b3-4c2b-ab7e-36e81aaee2ce",
+    "keyword": null,
+    "answer": "Hola, soy Nader Montenegro, asesor en créditos de libranza. Me apoyo en mi plataforma web credigestor.com y un Asistente Virtual Inteligente para ofrecerte una experiencia ágil, clara y personalizada. \n\nInicialmente, el Asistente responderá tus preguntas y recopilará la información necesaria para que podamos ofrecerte una solución a tu medida. Luego, yo me pondré en contacto contigo para acompañarte personalmente en el proceso.\n\nTrabajo como Asesor de crédito para Link Alianza Financiera, una empresa privada colombiana especializada en créditos de libranza para pensionados y empleados públicos.\n\n¿Qué necesitas saber sobre créditos de libranza? ¿Tienes alguna pregunta en particular?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573017474717",
+    "refSerialize": "07537b1684d0fd8d5c5edc9479ea34e1"
+  },
+  {
+    "ref": "33412d90-b48a-480d-b7c0-ab74f8d1bb43",
+    "keyword": "1a69184be19576edca5eaa6d6aa859a5",
+    "answer": "cotizo",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "b5b6e4661afc9edabc9c3e7c49205250"
+  },
+  {
+    "ref": "ans_e50546ad-cadf-431d-8be2-3608a4653a06",
+    "keyword": "key_d5c38fbd-2283-48d8-9921-f9451889ede7",
+    "answer": "¡Perfecto! Comenzaremos a registrar tus datos. Por favor, responde siguiendo las indicaciones que te daremos a continuación.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "583dc8972f97c34ab7ecbd82babccc2f",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_ef3da854-d3c6-4bd3-99aa-581f836695a9",
+    "keyword": "ans_e50546ad-cadf-431d-8be2-3608a4653a06",
+    "answer": "Numero de Cedula (solo números)",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "31a124eaec744873c139a1acdb135f18",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_096dd492-ac04-42cf-b4d4-7938de2cc8a1",
+    "keyword": "ans_ef3da854-d3c6-4bd3-99aa-581f836695a9",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "2b5085e339815224630bb6b37e90e541",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ed3a1ccd-5d81-450e-b895-456fe058db28",
+    "keyword": "2b5085e339815224630bb6b37e90e541",
+    "answer": "454545",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "b9874b93904c27c86d6ab6de545aaac4"
+  },
+  {
+    "ref": "ans_0e692408-005d-4968-bd6a-bb406a09ae17",
+    "keyword": "ans_096dd492-ac04-42cf-b4d4-7938de2cc8a1",
+    "answer": "Nombres y Apellidos",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "a84b06e734750d85884c6c25275e32da",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_7408303b-fccc-4e5d-99e8-54d497f8087e",
+    "keyword": "ans_0e692408-005d-4968-bd6a-bb406a09ae17",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "6988987fb7827f3e97b00a69354b3918",
+    "from": "573017474717"
+  },
+  {
+    "ref": "8539b14e-6417-4814-98c4-08cbdbe4df47",
+    "keyword": "6988987fb7827f3e97b00a69354b3918",
+    "answer": "sdsds",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "c33b66ba7b9307b361ab32a5b3e9918a"
+  },
+  {
+    "ref": "ans_33e1a1e3-3582-4127-90a9-c1afa118aaaf",
+    "keyword": "ans_7408303b-fccc-4e5d-99e8-54d497f8087e",
+    "answer": "Edad exacta del cliente",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ae48a92a55add94dd8641989fcb1e540",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_afc41b9c-7b09-4f21-8c98-6c6281cb1c49",
+    "keyword": "ans_33e1a1e3-3582-4127-90a9-c1afa118aaaf",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "298afe4837c0c1fb2da1e991b7b15de2",
+    "from": "573017474717"
+  },
+  {
+    "ref": "8a869452-6b8a-4a19-8bfc-d81d9f948531",
+    "keyword": "298afe4837c0c1fb2da1e991b7b15de2",
+    "answer": "sdsd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "d06a569eb135a2273d374a2acb53037a"
+  },
+  {
+    "ref": "ans_98393c3f-bd05-437f-8e83-dd4ad662305f",
+    "keyword": "ans_afc41b9c-7b09-4f21-8c98-6c6281cb1c49",
+    "answer": "Convenio o Empresa de Nomina",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "148ac42037d04bfc4f6aefa27db32dd3",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_853275b8-40f9-4ee5-a131-e282eeef4c0c",
+    "keyword": "ans_98393c3f-bd05-437f-8e83-dd4ad662305f",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "764baff967a631ce89e8b0da4c50d630",
+    "from": "573017474717"
+  },
+  {
+    "ref": "6ca99a53-4d31-4595-95d1-7e6c43a0cafd",
+    "keyword": "764baff967a631ce89e8b0da4c50d630",
+    "answer": "sdsd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "d06a569eb135a2273d374a2acb53037a"
+  },
+  {
+    "ref": "ans_0ed17e87-7440-4d6b-a52b-42842dc61df2",
+    "keyword": "ans_853275b8-40f9-4ee5-a131-e282eeef4c0c",
+    "answer": "Para que necesita el Dinero",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "85b4ba696a5ca093144353e35018caff",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_00ac1038-af29-430b-b3c8-67c75bb92667",
+    "keyword": "ans_0ed17e87-7440-4d6b-a52b-42842dc61df2",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3467a2edc1234b160e282721f8b9d1e2",
+    "from": "573017474717"
+  },
+  {
+    "ref": "9baecee1-5dc2-455d-83be-0993644f4c81",
+    "keyword": "3467a2edc1234b160e282721f8b9d1e2",
+    "answer": "sdsd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "d06a569eb135a2273d374a2acb53037a"
+  },
+  {
+    "ref": "ans_e7d22669-56a7-4f05-8cb1-4d9ffeb15199",
+    "keyword": "ans_00ac1038-af29-430b-b3c8-67c75bb92667",
+    "answer": "Tu Credito es de Libre Inversion o Compra de Cartera",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "61e3af95310ddd74273f90a3c68219a7",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_5aa3b109-02ae-4076-8387-2d71f27e36e5",
+    "keyword": "ans_e7d22669-56a7-4f05-8cb1-4d9ffeb15199",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f1e617674a54cbd1430a7c1249c8903a",
+    "from": "573017474717"
+  },
+  {
+    "ref": "9d6c6fa2-ad83-405f-acb4-d47b66a7c747",
+    "keyword": "f1e617674a54cbd1430a7c1249c8903a",
+    "answer": "sd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "36d8159567be60e4368d7dd8f7ce2619"
+  },
+  {
+    "ref": "ans_31924f6b-5b3b-4996-8aa7-085b059a036c",
+    "keyword": "ans_5aa3b109-02ae-4076-8387-2d71f27e36e5",
+    "answer": "Monto Solicitado",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "7ca2d9a3b51d87e5e19c159ed68266ef",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_4b69c046-a935-40e9-b07d-19bb079b8ae5",
+    "keyword": "ans_31924f6b-5b3b-4996-8aa7-085b059a036c",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "357f102f2200113912f9ed23ce012fed",
+    "from": "573017474717"
+  },
+  {
+    "ref": "a5f64f78-6d93-4f72-8898-4d591a7ae4f1",
+    "keyword": "357f102f2200113912f9ed23ce012fed",
+    "answer": "sdd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "2cb060f9c584c86e58ab55bed4e0d537"
+  },
+  {
+    "ref": "ans_ea356b9c-b570-43c6-99c2-1dddb2f2e405",
+    "keyword": "ans_4b69c046-a935-40e9-b07d-19bb079b8ae5",
+    "answer": "Ultimo Desprendible de Nomina (foto ó pdf)",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "2581f0e133b9ba81c8c62b2ac6f59171",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_43aa6a91-41da-4016-a008-7561908e11c6",
+    "keyword": "ans_ea356b9c-b570-43c6-99c2-1dddb2f2e405",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "77a924966f9ac625a1c402003afcc038",
+    "from": "573017474717"
+  },
+  {
+    "ref": "6dacd52d-17a2-444a-b8c1-aa55ee558d56",
+    "keyword": "77a924966f9ac625a1c402003afcc038",
+    "answer": "sdd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "2cb060f9c584c86e58ab55bed4e0d537"
+  },
+  {
+    "ref": "ans_35c3aa63-96d5-48dc-90c1-163544690b06",
+    "keyword": "ans_43aa6a91-41da-4016-a008-7561908e11c6",
+    "answer": "Tus datos fueron registrados \n\n En breve nos pondremos en contacto contigo para brindarte una respuesta detallada a tu solicitud.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "c82ddd8c7ddde037f7288985f4e615c3",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ans_7940bc17-5ee1-4ce0-8736-e0b855d52d2b",
+    "keyword": "ans_35c3aa63-96d5-48dc-90c1-163544690b06",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "366a26945da5dc08a1592e5e2801cceb",
+    "from": "573017474717"
+  },
+  {
+    "ref": "d57462c9-2f8c-4da8-9b3c-f0d82a1a41a4",
+    "keyword": "366a26945da5dc08a1592e5e2801cceb",
+    "answer": "sd",
+    "options": {},
+    "from": "573017474717",
+    "refSerialize": "36d8159567be60e4368d7dd8f7ce2619"
+  },
+  {
+    "ref": "ans_dea7dfc0-c255-4cad-a581-758c76c76265",
+    "keyword": "key_aedddcdd-1921-4515-90ec-2a80bfe4b807",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "1a69184be19576edca5eaa6d6aa859a5",
+    "from": "573017474717"
+  },
+  {
+    "ref": "ea85f5a4-383b-44bc-a5f3-78037b19e062",
+    "keyword": null,
+    "answer": "Hola, veo que ya tienes un proceso registrado. Tu estado actual es:\n\n Cotizando\n\nUn asesor se pondrá en contacto contigo pronto para brindarte una respuesta a tu solicitud.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573017474717",
+    "refSerialize": "833f2deccd5d424161bcb73ea515dc46"
+  }
+]
